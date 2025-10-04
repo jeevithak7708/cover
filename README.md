@@ -174,15 +174,5 @@ background-size: cover;
 ## OUTPUT:
 ![alt text](bookcover.png)
 
-
-
-
-
-
-
-
-
-
-
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
